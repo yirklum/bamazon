@@ -6,3 +6,5 @@ The application begins when the user enters "node bamazonCustomer.js" into the c
 Bamazon also offers tools for managers. By entering "node bamazonManager.js" products can be checked and inventory monitored. After starting the app, the manager is immediately offered a menu of four choices. If they choose "View Products for Sale" Bamazon will provide a list of all available products and pertinent information about each one. Selecting "View Low Inventory" returns a list of all the products that have less than 5 units currently in the inventory. The "Add to Inventory" option allows the manager to increase the inventory of products already in the system, while "Add New Product" lets them add brand new items into Bamazon's inventory.
 
 This project was built with a number of tools and technologies, including Javascript, node.js, mysql, Inquirer, and JSON. In the future, it may be developed further, by adding to the unique inventory, designing a beautiful html storefront, and establishing a less reckless way to conduct financial transactions.
+
+A demonstration of this app can be found at: https://drive.google.com/file/d/18FV871K65G11Y7hFRrsWJ-Be_mh1Ugnh/view.
